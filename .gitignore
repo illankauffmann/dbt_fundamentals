@@ -3,3 +3,7 @@ target/
 dbt_modules/
 logs/
 dbt_internal_packages/
+venv/
+__pycache__/
+ *.log 
+ *.json
